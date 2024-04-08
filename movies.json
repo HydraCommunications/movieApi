@@ -1,0 +1,26 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "title": "THE INCREDIBLES",
+            "genre": "Kids & family/Comedy",
+            "length": "1:55",
+            "rating": 97
+        },
+        {
+            "id": 2,
+            "title": "STAR WARS: EPISODE V - THE EMPIRE STRIKES BACK",
+            "genre": "Sci-fi/Adventure",
+            "length": "2:04",
+            "rating": 95
+        },
+        {
+            "id": 3,
+            "title": "THE LORD OF THE RINGS: THE TWO TOWERS",
+            "genre": "Fantasy/Adventure",
+            "length": "2:59",
+            "rating": 95
+        }
+    ]
+
+}
