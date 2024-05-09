@@ -1,0 +1,30 @@
+[
+  {
+    "article": {
+      "date": "2024-05-09",
+      "title": "Example News Article",
+      "text": "This is an example news article. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac risus non mauris consectetur interdum. Proin eu magna non velit dignissim volutpat id a eros. Vivamus ac libero in libero congue sodales ut in lectus. Integer sit amet varius elit. Sed sollicitudin auctor ligula, a interdum nunc accumsan vel. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed et fringilla dui. Sed aliquet ipsum quis dapibus consectetur. Aliquam erat volutpat. Vivamus consequat magna sit amet nisi tincidunt, eget fermentum mauris viverra. Mauris auctor velit vel efficitur feugiat. Sed sodales quam a risus bibendum, vel aliquet velit tincidunt. Vestibulum vitae placerat magna. Sed ultricies sem ac nulla vestibulum, non laoreet odio rutrum."
+    }
+  },
+  {
+    "article": {
+      "date": "2024-03-09",
+      "title": "Example News Article 2",
+      "text": "This is an example news article. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac risus non mauris consectetur interdum. Proin eu magna non velit dignissim volutpat id a eros. Vivamus ac libero in libero congue sodales ut in lectus. Integer sit amet varius elit. Sed sollicitudin auctor ligula, a interdum nunc accumsan vel. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed et fringilla dui. Sed aliquet ipsum quis dapibus consectetur. Aliquam erat volutpat. Vivamus consequat magna sit amet nisi tincidunt, eget fermentum mauris viverra. Mauris auctor velit vel efficitur feugiat. Sed sodales quam a risus bibendum, vel aliquet velit tincidunt. Vestibulum vitae placerat magna. Sed ultricies sem ac nulla vestibulum, non laoreet odio rutrum."
+    }
+  },
+  {
+    "article": {
+      "date": "2024-06-04",
+      "title": "Example News Article 3",
+      "text": "This is an example news article. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac risus non mauris consectetur interdum. Proin eu magna non velit dignissim volutpat id a eros. Vivamus ac libero in libero congue sodales ut in lectus. Integer sit amet varius elit. Sed sollicitudin auctor ligula, a interdum nunc accumsan vel. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed et fringilla dui. Sed aliquet ipsum quis dapibus consectetur. Aliquam erat volutpat. Vivamus consequat magna sit amet nisi tincidunt, eget fermentum mauris viverra. Mauris auctor velit vel efficitur feugiat. Sed sodales quam a risus bibendum, vel aliquet velit tincidunt. Vestibulum vitae placerat magna. Sed ultricies sem ac nulla vestibulum, non laoreet odio rutrum."
+    }
+  },
+  {
+    "article": {
+      "date": "2024-03-09",
+      "title": "Example News Article 4",
+      "text": "This is an example news article. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac risus non mauris consectetur interdum. Proin eu magna non velit dignissim volutpat id a eros. Vivamus ac libero in libero congue sodales ut in lectus. Integer sit amet varius elit. Sed sollicitudin auctor ligula, a interdum nunc accumsan vel. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed et fringilla dui. Sed aliquet ipsum quis dapibus consectetur. Aliquam erat volutpat. Vivamus consequat magna sit amet nisi tincidunt, eget fermentum mauris viverra. Mauris auctor velit vel efficitur feugiat. Sed sodales quam a risus bibendum, vel aliquet velit tincidunt. Vestibulum vitae placerat magna. Sed ultricies sem ac nulla vestibulum, non laoreet odio rutrum."
+    }
+  }
+]
